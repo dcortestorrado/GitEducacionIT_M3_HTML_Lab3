@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+.contenedor {
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid #8a9af1;
+    padding: 20px;
+}
+
+.ta-center {
+    text-align: center;
+}
+
+.t-white {
+    color: white;
+}
+
+.t-blue {
+    color: #0723ab;
+}
+
+.bg-blue {
+    background-color: #0a2ff1; 
+}
+
+.bg-black{
+    background-color: black;
+    width: 500px;
+    height: 1px;
+    margin: 0 auto 10px;
+}
+
+.m-10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.fs-title {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.fs-input {
+    font-family: 'Mulish', sans-serif;
+    font-size: 18.6px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #4556ab;
+}
+
+a:visited {
+    color: #eff2ff;
+}
+
+a:hover {
+    color: #5d6bb1;
+}
+
+a:active {
+    color: blueviolet;
+}
+
+input, button {
+    width: 500px;
+    height: 50px;
+    margin: 0 auto 10px;
+    padding: 10px;
+}
+
+button {
+    border: 1px solid black;
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+a { 
+    font-size: 18.6px;
+    font-weight: 400;
+}
